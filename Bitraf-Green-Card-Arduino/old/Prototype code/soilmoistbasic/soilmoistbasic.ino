@@ -6,6 +6,12 @@ To test the concept of a automatic watering system
  
 Features
 Pumps water for 1 second after 6 seconds if the moisture sensor is dry.
+
+ Created 22 Jan 2015
+ By Jakob Nilsson
+
+No Rights Reserved
+
  */
 
 int dry = 0;
